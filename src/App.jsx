@@ -9,8 +9,8 @@ const App = () => {
       <NavBar />
       
       <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="/contact" element={<Contact />} />
+        <Route path="react-deltasaca/" element={<HomePage />} />
+        <Route path="react-deltasaca/contact" element={<Contact />} />
       </Routes>
     </div>
   );
